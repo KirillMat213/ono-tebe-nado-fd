@@ -1,1 +1,1 @@
-https://github.com/KirillMat213/ono-tebe-nado
+https://github.com/KirillMat213/ono-tebe-nado-fd
